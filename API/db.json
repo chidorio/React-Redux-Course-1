@@ -1,14 +1,20 @@
 {
   "streams": [
     {
-      "title": "Test  create",
-      "description": "test1",
+      "title": "Create Test",
+      "description": "description text",
       "id": 1
     },
     {
-      "title": "Test  create2",
-      "description": "test2",
+      "title": "The Second One",
+      "description": "second stream that was created",
       "id": 2
+    },
+    {
+      "title": "Hi",
+      "description": "I'm Monika",
+      "userId": "117775533013914608674",
+      "id": 3
     }
   ]
 }
