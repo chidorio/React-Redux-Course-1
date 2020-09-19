@@ -1,19 +1,14 @@
 {
   "streams": [
     {
-      "title": "Create Test",
-      "description": "description text",
+      "title": "Test  create",
+      "description": "test1",
       "id": 1
     },
     {
-      "title": "The Second One",
-      "description": "second stream that was created",
+      "title": "Test  create2",
+      "description": "test2",
       "id": 2
-    },
-    {
-      "title": "console.log()",
-      "description": "response",
-      "id": 3
     }
   ]
 }
